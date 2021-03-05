@@ -16,11 +16,6 @@ from sklearn.metrics import classification_report
 
 #from gensim.models import Word2Vec, KeyedVectors
 
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-import collections
-
 st.title("Emotion Classification")
 
 
